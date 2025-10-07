@@ -1,6 +1,3 @@
-# Laundry-Wallah
-Laundry Wallah is my first HTML project — a simple web page created as part of my learning journey in web development.
-
 # 🧺 Laundry Wallah
 
 Laundry Wallah is my first HTML project — created as part of my learning journey in web development.
